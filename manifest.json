@@ -1,0 +1,15 @@
+{
+  "name": "Girigo Protocol",
+  "short_name": "Girigo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/1475066979600699504/1504024367930151053/Screenshot_20260513_153537.jpg?ex=6a057b58&is=6a0429d8&hm=9ca91c665d88455bbb3ffd841e294df81470a9437fb93d01da07ec2462cbd319&",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
